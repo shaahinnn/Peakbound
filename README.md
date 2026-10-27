@@ -2,6 +2,10 @@
 
 Peakbound is a 2D Unity hill-climb driving game. Drive a red car across rolling hills, rocky underground paths, and tunnels while collecting coins and keeping an eye on your fuel.
 
+## Gameplay Demo
+
+[▶ Watch or download the Peakbound gameplay demo (MP4)](https://github.com/shaahinnn/Peakbound/releases/download/demo-v1.0/PeakBound.mp4)
+
 ## Screenshots
 
 ### Title screen
